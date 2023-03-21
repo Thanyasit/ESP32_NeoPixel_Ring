@@ -23,5 +23,5 @@ This program is based on the [NeoPixel Ring simple sketch](https://github.com/ad
 
 ## License
 
-This program is licensed under the [MIT License](LICENSE).
+This program is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
