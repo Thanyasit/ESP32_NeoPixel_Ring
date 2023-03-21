@@ -1,6 +1,6 @@
 # ESP32_NeoPixel_Ring
 ## Description
-This program uses an ESP32 microcontroller and a NeoPixel ring to display different colored lights based on an analog input signal. 
+This program uses an ESP32 microcontroller and a NeoPixel ring to display different colored lights based on an analog input signal.<br><b>2022</b>
 
 ## Hardware Required
 
@@ -23,5 +23,5 @@ This program is based on the [NeoPixel Ring simple sketch](https://github.com/ad
 
 ## License
 
-This program is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This program is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
