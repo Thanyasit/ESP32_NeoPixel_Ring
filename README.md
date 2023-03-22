@@ -21,6 +21,10 @@ This program uses an ESP32 microcontroller and a NeoPixel ring to display differ
 
 This program is based on the [NeoPixel Ring simple sketch](https://github.com/adafruit/Adafruit_NeoPixel/blob/master/examples/strandtest/strandtest.ino) by Shae Erisson, released under the GPLv3 license. The program was modified to work with an ESP32 microcontroller and analog input. 
 
+## Example
+
+
+
 ## License
 
 This program is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
