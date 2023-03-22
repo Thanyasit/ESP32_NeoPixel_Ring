@@ -23,7 +23,9 @@ This program is based on the [NeoPixel Ring simple sketch](https://github.com/ad
 
 ## Example
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226797299-b3581edb-81fb-4f11-a1ee-6f20916695f5.jpg" width="300"><img src="https://user-images.githubusercontent.com/77733903/226797608-a6423e0b-654a-4763-bad0-0db3d8e5d970.png" width="300">
+</p>
 
 ## License
 
